@@ -1,0 +1,89 @@
+body {
+  margin: 15px;
+}
+
+.travel {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  color: pink;
+}
+
+#footer {
+  width: 100%;
+  height: 100%;
+  color: white;
+  padding: 30px;
+  background-color: rgb(52, 98, 98);
+}
+
+.col img {
+  height: 220px;
+  padding: 20px;
+}
+
+#accordionExample {
+  padding: 20px;
+}
+
+#trip {
+  padding: 20px;
+  text-align: center;
+  font-weight: bold;
+  line-height: 30px;
+}
+
+#trips {
+  padding: 20px;
+}
+
+#send {
+  border: 1px solid grey;
+  border-radius: 5px;
+  padding: 3px;
+  margin: 10px;
+}
+
+.pink {
+  margin: 20px;
+}
+
+.grey {
+  background-color: #0693e3;
+}
+
+.colB img {
+  height: 500px;
+  padding: 20px;
+}
+
+#col {
+  padding: 20px;
+}
+
+#him {
+  font-weight: bold;
+}
+
+h2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+P ~ span {
+  background-color: blueviolet;
+}
+
+p + span {
+  color: aliceblue;
+}
+
+li:nth-child(odd) {
+  background-color: aqua;
+}
+
+div#really > div.accor-item {
+  background-color: cadetblue;
+}/*# sourceMappingURL=style.css.map */
